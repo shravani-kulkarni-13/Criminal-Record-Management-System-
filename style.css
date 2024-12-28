@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container2{
+    background: linear-gradient(orange,white,green);
+    height: 10rem;
+    width: 100%;
+}
+.logo{
+    margin-left: 42%;
+}
