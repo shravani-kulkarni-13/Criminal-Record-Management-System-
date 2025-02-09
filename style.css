@@ -63,13 +63,11 @@ button{
     background-color: black;
     color: white;
 }
-/*nav logo*/
 .navLogo{
     height: 80px;
     margin-top: 5px;
 }
 
-/*footer*/
 .footer {
     background-color: #002147;
     color: white;

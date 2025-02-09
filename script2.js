@@ -14,7 +14,7 @@ const policeLogin = (event) => {
         loginMessage.style.color = "green";
         loginMessage.textContent = "Logging in..."
         setTimeout(() => {
-            window.location.href = "cases.html";
+            window.location.href = "viewall.php";
         },3000);
     }
     else{
